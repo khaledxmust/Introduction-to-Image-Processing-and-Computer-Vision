@@ -1,5 +1,5 @@
-# Image-Processing-and-Introduction-to-Computer-Vision
-Image Processing and Introduction to Computer Vision Labs based on "Computer Vision Algorithms and Applications" -Richard Szeliski
+# Introduction to Image Processing and Computer Vision
+Introduction to Image Processing and Computer Vision Labs based on "Computer Vision Algorithms and Applications" -Richard Szeliski
 
 # 1. Image-Processing-and-Introduction-to-Computer-Vision
 1. Read, save, and display images with Matplotlib
